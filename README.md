@@ -1,1 +1,1 @@
-Command arguments: -vid <filename>
+Command arguments: -vid {filename}
